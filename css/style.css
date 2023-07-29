@@ -1,0 +1,25 @@
+.spfc {
+    width: 200px;
+}
+body {
+    background-repeat: no-repeat, repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+button {
+    width: 150px;
+    height: 70px;
+    margin: 20px;
+}
+input {
+    width: 220px;
+    height: 40px;
+}   
+
+#cleber {
+    background-color: blue;
+}
+
+
